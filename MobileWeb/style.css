@@ -1,0 +1,15 @@
+body{
+	background-color: #E0EEEE;
+}
+
+button{
+	margin-top: 25%;
+	margin-left: 20%;
+	color:blue;
+}
+.img{
+	margin-top: 0%;
+	float: left;
+	width: 20%;
+	height: 20%;
+}
